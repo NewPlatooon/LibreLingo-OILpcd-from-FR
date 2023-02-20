@@ -2,7 +2,7 @@
 
 Course:
   Language:
-    Name: Occitan auvergnat
+    Name: Occitan
     IETF BCP 47: oc-auv
   For speakers of:
     Name: French
@@ -41,7 +41,7 @@ Modules:
 
 Settings:
   Audio:
-    Enabled: True
+    Enabled: False
     TTS:
       - Provider: Polly
         Voice: Lucia
