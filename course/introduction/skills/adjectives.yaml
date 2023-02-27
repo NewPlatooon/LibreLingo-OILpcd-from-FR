@@ -132,10 +132,8 @@ Mini-dictionary:
       - son
     - viande: charn
     - ne...pas: ...pas
-    - petit:
-      - petit
-    - petite:
-      - petita
+    - petit: petit
+    - petite: petita
     - aigles: epervèirs
     - souris: mirjas
     - travailler:
