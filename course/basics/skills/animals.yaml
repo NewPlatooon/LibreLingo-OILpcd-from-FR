@@ -122,15 +122,13 @@ Mini-dictionary:
 
 
   French:
-    - le:
-        - le
-    - la:
-        - la
-     - c'est: quo-es
-    - un:
-      - un
+    - le: le
+    - la: la
+    - c'est: quo-es
+    - un: un
     - une:
       - una
+      -\'na
     - Bernard: Bernard
     - est:
       - z-es
