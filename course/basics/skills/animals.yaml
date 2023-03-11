@@ -105,13 +105,18 @@ Phrases:
 
 Mini-dictionary:
   Occitan:
+    - chin: chien
+    - chat: chat
+    - orse: ours
+    - vacha: vache
+    - canard: canard
+    - ega: cheval
+    - le: le
+    - la: la
     - un: un
     - una: une
-    - es/z-es: est
-    - Bernard: Bernard (nom)
+    - Bernard: Bernard
     - e: et
-    - bon·a: bon·ne
-    - profeit: profit
     - quo-es: c\'est
     - z-es: il/elle est
 
@@ -121,20 +126,19 @@ Mini-dictionary:
         - le
     - la:
         - la
-    - c'est: quo-es
+     - c'est: quo-es
     - un:
       - un
     - une:
       - una
-    - Bernard: Bernard (nom)
+    - Bernard: Bernard
     - est:
       - z-es
       - es
     - et: e
-    - ton:
-      - ton
-    - ta:
-      - ta
-    - plat:
-      - manjar
-    - pain: pan
+    - chien: chin
+    - chat: chat
+    - ours: orse
+    - vache: vacha
+    - canard: canard
+    - cheval: ega
