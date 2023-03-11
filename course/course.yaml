@@ -36,7 +36,6 @@ Course:
 
 Modules:
   - basics/
-  - introduction/
 Settings:
   Audio:
     Enabled: False
