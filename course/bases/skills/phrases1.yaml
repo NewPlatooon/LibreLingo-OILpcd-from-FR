@@ -1,0 +1,98 @@
+Skill:
+  Name: Phrases de base
+  Id: 14
+
+New words: []
+
+Phrases:
+  - Phrase: Bonjorn!
+    Translation: Bonjour!
+
+  - Phrase: Bonjorn, sèi Cecilia
+    Translation: Bonjour, je suis Cécile
+
+  - Phrase: Me sònan Joan
+    Alternative versions:
+      - Me \'pèlan Joan
+    Translation: Je m'apelle Jean
+
+  - Phrase: Coma quo vai?
+    Translation: Comment ça va?
+
+  - Phrase: De que se passa?
+    Translation: Qu'est ce qu'il se passe?
+
+  - Phrase: Adieu!
+    Translation: Salut!
+
+  - Phrase: A totara!
+    Translation: À plus tard!
+
+  - Phrase: Coma te sònan?
+    Translation: Comment tu t'apelles?
+
+  - Phrase: Bon \'près-miejorn!
+    Translation: Bon après-midi!
+
+  - Phrase: Bona nuèit, Joan!
+    Translation: Bonne nuit, Jean!
+
+Mini-dictionary:
+  French:
+    - bonjour: bonjorn
+    - je suis: sèi
+    - Cécile: Cecilia
+    - m\':
+      - m\'
+      - me
+    - apelle:
+      - sòna
+      - \'pèla
+    - Jean: Joan
+    - comment: coma
+    - ça: quo
+    - va: vai
+    - il: i-aul
+    - se: se
+    - passe: passa
+    - salut: adieu
+    - à: a
+    - tu: tu
+    - t\':
+      - t\'
+      - te
+    - apelles:
+      - sònas
+      - \'pèlas
+    - bon: bon
+    - bonne: bona
+    - qu'est ce qu\':
+      - de que
+    - plus tard:
+      - totara
+      - mai tard
+    - après-midi: \'près-miejorn
+    - nuit: nuèit
+
+  Occitan:
+    - bon: bon
+    - bona: bonne
+    - bonjorn: bonjour
+    - sònan: elles/ils apellent
+    - \'pèlan: elles/ils apellent
+    - de que: qu'est ce que
+    - passa: elle/il/on passe
+    - me: me
+    - te: te
+    - se: se
+    - \'près-miejorn: après-midi
+    - nuèit: nuit
+    - sèi: je suis
+    - Cecilia: Cécile (nom)
+    - Joan: Jean (nom)
+    - coma: comment
+    - quo: ça
+    - vai: elle/il/on va
+    - adieu: salut
+    - a: à
+    - totara: plus tard
