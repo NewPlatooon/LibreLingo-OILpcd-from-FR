@@ -9,7 +9,7 @@ Phrases:
     Translation: Bonjour!
 
   - Phrase: Bonjorn, sèi Cecilia
-    Translation: Bonjour, {je suis} Cécile
+    Translation: "Bonjour, {je suis} Cécile"
 
   - Phrase: Me sònan Joan
     Alternative versions:
@@ -19,14 +19,14 @@ Phrases:
   - Phrase: Coma quo vai?
     Translation: Comment ça va?
 
-  - Phrase: {De que} se passa?
-    Translation: {Qu'est ce qu}'il se passe?
+  - Phrase: "{De que} se passa?"
+    Translation: "{Qu'est ce qu}'il se passe?"
 
   - Phrase: Adieu!
     Translation: Salut!
 
   - Phrase: A totara!
-    Translation: À {plus tard}!
+    Translation: "À {plus tard}!"
 
   - Phrase: Coma te sònan?
     Translation: Comment tu t'apelles?
