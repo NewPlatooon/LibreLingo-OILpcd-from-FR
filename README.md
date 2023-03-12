@@ -1,3 +1,3 @@
-# LibreLingo-OCauv-from-FR
+# LibreLingo-OILpcd-from-FR
 
-Occitan auvergnat course for French speakers
+Oïl picard course for French speakers
