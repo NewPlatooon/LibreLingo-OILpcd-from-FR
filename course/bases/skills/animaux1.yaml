@@ -7,84 +7,84 @@ Skill:
     - cat3
 
 New words:
-  - Word: chin
+  - Word: quien
     Translation: chien
     Images:
       - dog1
       - dog2
       - dog3
 
-  - Word: chat
+  - Word: cat
     Translation: chat
     Images:
       - cat1
       - cat2
       - cat3
 
-  - Word: orse
-    Translation: ours
+  - Word: leup
+    Translation: loup
     Images:
-      - bear1
-      - bear2
-      - bear1
+      - wolf1
+      - wolf2
+      - wolf1
 
-  - Word: vacha
+  - Word: vaque
     Translation: vache
     Images:
       - cow1
       - cow2
       - cow3
 
-  - Word: canard
+  - Word: massou
     Translation: canard
     Images:
       - duck1
       - duck2
       - duck3
 
-  - Word: ega
+  - Word: queval
     Translation: cheval
     Images:
       - horse1
       - horse2
       - horse3
 
-  - Word: le chat
+  - Word: el cat
     Translation: le chat
     Images:
       - cat1
       - cat2
       - cat3
 
-  - Word: un orse
-    Translation: un ours
+  - Word: un leup
+    Translation: un loup
     Images:
-      - bear1
-      - bear2
-      - bear1
+      - wolf1
+      - wolf2
+      - wolf1
 
-  - Word: una vacha
+  - Word: une vaque
     Translation: une vache
     Images:
       - cow1
       - cow2
       - cow3
 
-  - Word: le canard
+  - Word: el massou
     Translation: le canard
     Images:
       - duck1
       - duck2
       - duck3
 
-  - Word: una ega
+  - Word: un queval
     Translation: un cheval
     Images:
       - horse1
       - horse2
       - horse3
 
-  - Word: le chin
+  - Word: el quien
     Translation: le chien
     Images:
       - dog1
@@ -92,51 +92,45 @@ New words:
       - dog3
 
 Phrases:
-  - Phrase: Quo-es una ega
+  - Phrase: C'est un queval
     Translation: C'est un cheval
 
-  - Phrase: Bernard z-es un chin
-    Alternative versions:
-      - Bernard es un chin
-    Translation: Bernard est un chien
+  - Phrase: 'Sef c'est un quien
+    Translation: Joseph est un chien
 
-  - Phrase: Un chin e una ega
+  - Phrase: Un quien pis un queval
     Translation: Un chien et un cheval
 
 Mini-dictionary:
-  Occitan:
-    - chin: chien
-    - chat: chat
-    - orse: ours
-    - vacha: vache
-    - canard: canard
-    - ega: cheval
-    - le: le
-    - la: la
+  Picard:
+    - quien: chien
+    - cat: chat
+    - leup: loup
+    - vaque: vache
+    - massou: canard
+    - queval: cheval
+    - el:
+      - le
+      - la
     - un: un
-    - una: une
-    - Bernard: Bernard
-    - e: et
-    - quo-es: c\'est
-    - z-es: il/elle est
+    - une: une
+    - 'Sef: Joseph
+    - pis: et
+    - c'est: c'est
 
 
   French:
-    - le: le
-    - la: la
-    - c'est: quo-es
+    - le: el
+    - la: el
+    - c'est: c'est
     - un: un
-    - une:
-      - una
-      - \'na
-    - Bernard: Bernard
-    - est:
-      - z-es
-      - es
-    - et: e
-    - chien: chin
-    - chat: chat
-    - ours: orse
-    - vache: vacha
-    - canard: canard
-    - cheval: ega
+    - une: une
+    - Joseph: 'Sef
+    - est: est
+    - et: pis
+    - chien: quien
+    - chat: cat
+    - loup: leup
+    - vache: vaque
+    - canard: massou
+    - cheval: queval
