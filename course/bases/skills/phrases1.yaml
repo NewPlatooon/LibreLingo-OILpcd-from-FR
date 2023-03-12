@@ -42,12 +42,9 @@ Mini-dictionary:
     - bonjour: bonjorn
     - suis: sèi
     - Cécile: Cecilia
-    - m\':
-      - m\'
-      - me
-    - apelle:
-      - sòna
-      - \'pèla
+    - m\'apelle:
+      - me sòna
+      - me \'pèla
     - Jean: Joan
     - comment: coma
     - ça: quo
@@ -58,19 +55,21 @@ Mini-dictionary:
     - salut: adieu
     - à: a
     - tu: tu
-    - t\':
-      - t\'
-      - te
-    - apelles:
-      - sònas
-      - \'pèlas
+    - t\'apelles:
+      - te sònas
+      - te \'pèlas
     - bon: bon
     - bonne: bona
     - qu'est ce qu\':
       - de que
+    - qu\'est: de que
+    - ce: çò
+    - qu\'il: que
     - plus tard:
       - totara
       - mai tard
+    - plus: mai
+    - tard: tard
     - après-midi: \'près-miejorn
     - nuit: nuèit
     - je: iu
@@ -82,6 +81,8 @@ Mini-dictionary:
     - sònan: elles/ils apellent
     - \'pèlan: elles/ils apellent
     - de que: qu'est ce que
+    - de: de
+    - que: quoi
     - passa: elle/il/on passe
     - me: me
     - te: te
