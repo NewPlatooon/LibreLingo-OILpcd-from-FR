@@ -2,8 +2,8 @@
 
 Course:
   Language:
-    Name: Occitan
-    IETF BCP 47: oc-auv
+    Name: Picard
+    IETF BCP 47: pcd
   For speakers of:
     Name: French
     IETF BCP 47: fr
@@ -11,29 +11,16 @@ Course:
     Name: Attribution-ShareAlike 4.0 International
     Short name: CC BY-SA 4.0
     Link: https://creativecommons.org/licenses/by-sa/4.0/legalcode
-  Repository: https://github.com/PrWalterB/LibreLingo-OCauv-from-FR
+  Repository: https://github.com/NewPlatooon/LibreLingo-OILpcd-from-FR
   Special characters:
     - "à"
     - "À"
-    - "á"
-    - "Á"
     - "è"
     - "È"
     - "é"
     - "É"
-    - "í"
-    - "Í"
     - "ï"
     - "Ï"
-    - "ó"
-    - "Ó"
-    - "ò"
-    - "Ò"
-    - "ú"
-    - "Ú"
-    - "ü"
-    - "Ü"
-
 Modules:
   - bases/
 Settings:
